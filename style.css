@@ -1,0 +1,43 @@
+body{
+    background-color: #f0f0f0;
+}
+.row{
+    max-width: 100%;
+}
+.jumbotron{
+    width: 100%;
+    background-color: #333333;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+#logo{
+    color: #000000;
+}
+#slogan{
+    font-weight: bold;
+    font-size: 1.3em;
+    color: #ffde00;
+}
+#data{
+    color: #ffffff;
+}
+#godzina {
+    color: #ffffff;
+}
+.center{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+#mainlist{
+    list-style: none;
+}
+.smalllist{
+    list-style: none;
+}
+#footer{
+    background-color: #cccccc;
+}
